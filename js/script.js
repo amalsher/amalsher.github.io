@@ -93,7 +93,7 @@ $(document).ready(function() {
 	}
 	
 	// $( "#download_link" ).click(function() {
-		// document.getElementById('download').scrollIntoView(true);
+		// document.getElementById('download').scrollIntoView();
 	// });
 	
 	// 01.2 Check IOS

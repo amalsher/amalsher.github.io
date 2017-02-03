@@ -482,8 +482,8 @@ img.with-border{
   	font-family: "fontello";
   	font-style: normal;
   	font-weight: normal;
-  	font-size:10px;
-	content: '\e8ab';
+  	font-size:15px;
+	content: '\e95f';
 	color:#F9AA3C;
 	text-align:center;
 }
@@ -1060,7 +1060,7 @@ img.with-border{
 /* 06.5.6 Save The Date Title */
 /* ----------------------------------------------*/
 #save-the-date{
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Arvo', cursive; 
 	-ms-transform: rotate(-10deg); /* IE 9 */
     -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
     transform: rotate(-10deg);
@@ -2481,7 +2481,7 @@ form .has-error .btn-primary{
 }
 
 .couple-name{
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Arvo', cursive; 
 	font-size:41px; 
 	padding-top:100px;
 	color:#FFF; 
@@ -2503,7 +2503,7 @@ form .has-error .btn-primary{
 #counting-down{
 	text-align:center; 
 	color:#FFF; 
-	font-family: 'Pacifico';
+	font-family: 'Arvo';
 	-ms-transform: rotate(-10deg); 
 	-webkit-transform: rotate(-10deg); 
 	transform: rotate(-10deg);
@@ -2580,7 +2580,7 @@ footer .image-divider.fixed-height{
 #thank-you{
 	text-align:center; 
 	color:#FFF; 
-	font-family: 'Pacifico';
+	font-family: 'Arvo';
 	-ms-transform: rotate(-10deg); 
 	-webkit-transform: rotate(-10deg); 
 	transform: rotate(-10deg);
@@ -2666,7 +2666,7 @@ footer .image-divider.fixed-height{
 /* 14.1 Slider Section							 */
 /* ----------------------------------------------*/
 #invited{
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Arvo', cursive; 
 	font-size:36px; 
 	margin-top:70px;
 }
@@ -2691,7 +2691,7 @@ footer .image-divider.fixed-height{
 }
 
 .his-her-name .last-name{
-	font-family: 'Pacifico', cursive; 
+	font-family: 'Arvo', cursive; 
 	font-size:24px; 
 	display:block; 
 	margin-top:0;
@@ -2837,7 +2837,7 @@ footer .image-divider.fixed-height{
 h2#dont-miss-it-title{
 	font-size:42px; 
 	margin-bottom:30px; 
-	font-family: 'Pacifico', cursive;
+	font-family: 'Arvo', cursive;
 }
 
 .circle-countdown{
@@ -3810,7 +3810,7 @@ footer .image-divider.fixed-height{
 #thank-you{
 	text-align:center; 
 	color:#FFF; 
-	font-family: 'Pacifico';
+	font-family: 'Arvo';
 	-ms-transform: rotate(-10deg); 
 	-webkit-transform: rotate(-10deg); 
 	transform: rotate(-10deg);
