@@ -424,6 +424,7 @@ img.with-border{
 	font-family: 'Oswald', sans-serif;
 	font-size:13px;
 	z-index:1000;
+	margin-left: 65px;
 }
 
 /* 02.2.1 Nav Center 							 */
