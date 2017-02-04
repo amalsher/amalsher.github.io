@@ -383,6 +383,7 @@ img.with-border{
 	height:145px; 
 	width:100%;
 	background-color:#FFF;
+	opacity: 0.5;
 	z-index:1500;
 	top:0;
 	bottom:auto;
@@ -424,7 +425,14 @@ img.with-border{
 	font-family: 'Oswald', sans-serif;
 	font-size:13px;
 	z-index:1000;
-	margin-left: 65px;
+}
+
+#nav-menu.en{	
+	margin-left: 50px;
+}
+
+#nav-menu.ru{	
+	margin-left: 75px;
 }
 
 /* 02.2.1 Nav Center 							 */
